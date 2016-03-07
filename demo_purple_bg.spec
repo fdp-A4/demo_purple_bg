@@ -6,5 +6,6 @@
   "version": "1.0.0",
   "homepage": "https://github.com/fdp-A4/demo_purple_bg",
   "dependencies": {
+    "demo_red_bg" : "=1.0.0"
   }
 }
